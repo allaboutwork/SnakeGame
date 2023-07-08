@@ -10,3 +10,11 @@
     width: 20px;
     height: 20px;
 }
+
+.snake{
+    background-color: blue;
+}
+
+.apple{
+    background-color: red;
+}
